@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "21CC41A417DB7D1300201DDC"
-               BuildableName = "SSZipArchive.app"
-               BlueprintName = "SSZipArchive"
+               BuildableName = "SSZipArchiveExampleApp.app"
+               BlueprintName = "SSZipArchiveExampleApp"
                ReferencedContainer = "container:SSZipArchive.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -38,13 +38,23 @@
                ReferencedContainer = "container:SSZipArchive.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83409DDA19D5B65C004B7EB9"
+               BuildableName = "SSZipArchiveTests.xctest"
+               BlueprintName = "SSZipArchiveTests"
+               ReferencedContainer = "container:SSZipArchive.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21CC41A417DB7D1300201DDC"
-            BuildableName = "SSZipArchive.app"
-            BlueprintName = "SSZipArchive"
+            BuildableName = "SSZipArchiveExampleApp.app"
+            BlueprintName = "SSZipArchiveExampleApp"
             ReferencedContainer = "container:SSZipArchive.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -62,8 +72,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21CC41A417DB7D1300201DDC"
-            BuildableName = "SSZipArchive.app"
-            BlueprintName = "SSZipArchive"
+            BuildableName = "SSZipArchiveExampleApp.app"
+            BlueprintName = "SSZipArchiveExampleApp"
             ReferencedContainer = "container:SSZipArchive.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -80,8 +90,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "21CC41A417DB7D1300201DDC"
-            BuildableName = "SSZipArchive.app"
-            BlueprintName = "SSZipArchive"
+            BuildableName = "SSZipArchiveExampleApp.app"
+            BlueprintName = "SSZipArchiveExampleApp"
             ReferencedContainer = "container:SSZipArchive.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
