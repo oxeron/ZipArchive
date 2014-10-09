@@ -50,6 +50,8 @@
 		7A59497B19E38C5A00F65F90 /* mztools.h in Headers */ = {isa = PBXBuildFile; fileRef = 210D524F17DEFB880060D41A /* mztools.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7A59497C19E38C5A00F65F90 /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = 210D525117DEFB880060D41A /* unzip.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7A59497D19E38C5A00F65F90 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = 210D525317DEFB880060D41A /* zip.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7A97912C19E647C0001FFC4D /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC41E317DB7D2F00201DDC /* SSZipArchive.m */; };
+		7A97912D19E647C8001FFC4D /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC41E317DB7D2F00201DDC /* SSZipArchive.m */; };
 		83409DCF19D5B65B004B7EB9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21CC41A817DB7D1300201DDC /* Foundation.framework */; };
 		83409DF019D5B677004B7EB9 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 210D524C17DEFB880060D41A /* ioapi.c */; };
 		83409DF119D5B677004B7EB9 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 210D524E17DEFB880060D41A /* mztools.c */; };
@@ -489,6 +491,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A4036C619DE3DF6007B6E8F /* ioapi.c in Sources */,
+				7A97912C19E647C0001FFC4D /* SSZipArchive.m in Sources */,
 				7A4036C719DE3DF6007B6E8F /* mztools.c in Sources */,
 				7A4036C819DE3DF6007B6E8F /* unzip.c in Sources */,
 				7A4036C919DE3DF6007B6E8F /* zip.c in Sources */,
@@ -512,6 +515,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83409DF019D5B677004B7EB9 /* ioapi.c in Sources */,
+				7A97912D19E647C8001FFC4D /* SSZipArchive.m in Sources */,
 				83409DF119D5B677004B7EB9 /* mztools.c in Sources */,
 				83409DF219D5B677004B7EB9 /* unzip.c in Sources */,
 				83409DF319D5B677004B7EB9 /* zip.c in Sources */,
